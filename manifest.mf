@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: fi.necora.nb.reformat
+OpenIDE-Module-Layer: fi/necora/nb/reformat/layer.xml
+OpenIDE-Module-Localizing-Bundle: fi/necora/nb/reformat/Bundle.properties
+OpenIDE-Module-Specification-Version: 0.1
+
